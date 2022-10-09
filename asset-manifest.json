@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//kaareel.github.io/Router-II/static/css/main.82c8b4ba.css",
+    "main.js": "//kaareel.github.io/Router-II/static/js/main.f27f4296.js",
+    "static/js/787.4d4284e6.chunk.js": "//kaareel.github.io/Router-II/static/js/787.4d4284e6.chunk.js",
+    "index.html": "//kaareel.github.io/Router-II/index.html",
+    "main.82c8b4ba.css.map": "//kaareel.github.io/Router-II/static/css/main.82c8b4ba.css.map",
+    "main.f27f4296.js.map": "//kaareel.github.io/Router-II/static/js/main.f27f4296.js.map",
+    "787.4d4284e6.chunk.js.map": "//kaareel.github.io/Router-II/static/js/787.4d4284e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c8b4ba.css",
+    "static/js/main.f27f4296.js"
+  ]
+}
